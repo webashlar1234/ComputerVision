@@ -1,0 +1,48 @@
+﻿@model InterviewTest.Entity.Models.Image
+
+@{
+    ViewData["Title"] = "Details";
+}
+<section class="section-padding">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 mt-5">
+                <div class="table-wrapper-scroll-y my-custom-scrollbar my-detail-scrollbar">
+                    <table class="table table-bordered table-striped data-table mb-0">
+                        <tbody class="text-left">
+                            <tr>
+                                <th scope="row">
+                                    Name
+                                </th>
+                                <td>
+                                    @Html.DisplayFor(model => model.Name)
+                                </td>
+                            </tr>
+                            <tr>
+                                <th scope="row">
+                                    Image
+                                </th>
+                                <td>
+                                    <img id="img-view" src="@Url.Content(Model.Path)" alt="Image" />                                    
+                                </td>
+                            </tr>
+                            <tr>
+                                <th scope="row">
+                                    Description
+                                </th>
+                                <td class="overflow-hidden word-break-all">
+                                    @Html.DisplayFor(model => model.Tags)
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+
+                </div>
+            </div>
+        </div>
+        <div class="file btn btn-lg btn-primary btn-photo-check mt-1">
+            <a asp-action="Index" class="text-decoration-none text-white">Back to List</a>
+        </div>
+    </div>
+</section>
+<script src="~/js/custom/images.js" type="text/javascript"></script>

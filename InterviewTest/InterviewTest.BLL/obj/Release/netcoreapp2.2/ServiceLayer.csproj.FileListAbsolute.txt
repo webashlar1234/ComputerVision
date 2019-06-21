@@ -1,0 +1,9 @@
+D:\DotNetProjects\MicrosoftAI\Bhavesh\20June2019\InterviewTest\ServiceLayer\bin\Release\netcoreapp2.2\ServiceLayer.deps.json
+D:\DotNetProjects\MicrosoftAI\Bhavesh\20June2019\InterviewTest\ServiceLayer\bin\Release\netcoreapp2.2\ServiceLayer.dll
+D:\DotNetProjects\MicrosoftAI\Bhavesh\20June2019\InterviewTest\ServiceLayer\bin\Release\netcoreapp2.2\ServiceLayer.pdb
+D:\DotNetProjects\MicrosoftAI\Bhavesh\20June2019\InterviewTest\ServiceLayer\obj\Release\netcoreapp2.2\ServiceLayer.csprojAssemblyReference.cache
+D:\DotNetProjects\MicrosoftAI\Bhavesh\20June2019\InterviewTest\ServiceLayer\obj\Release\netcoreapp2.2\ServiceLayer.csproj.CoreCompileInputs.cache
+D:\DotNetProjects\MicrosoftAI\Bhavesh\20June2019\InterviewTest\ServiceLayer\obj\Release\netcoreapp2.2\ServiceLayer.AssemblyInfoInputs.cache
+D:\DotNetProjects\MicrosoftAI\Bhavesh\20June2019\InterviewTest\ServiceLayer\obj\Release\netcoreapp2.2\ServiceLayer.AssemblyInfo.cs
+D:\DotNetProjects\MicrosoftAI\Bhavesh\20June2019\InterviewTest\ServiceLayer\obj\Release\netcoreapp2.2\ServiceLayer.dll
+D:\DotNetProjects\MicrosoftAI\Bhavesh\20June2019\InterviewTest\ServiceLayer\obj\Release\netcoreapp2.2\ServiceLayer.pdb

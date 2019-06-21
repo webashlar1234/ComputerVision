@@ -1,0 +1,68 @@
+﻿@model IEnumerable<InterviewTest.Entity.Models.Image>
+
+@{
+    ViewData["Title"] = "Image List";
+}
+
+<section class="section-padding">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 mt-5">
+                <div class="table-wrapper-scroll-y my-custom-scrollbar">
+                    <table class="table table-bordered table-striped data-table mb-0">
+                        <thead>
+                            <tr>
+                                <th scope="col" class="w-15">Image Id</th>
+                                <th scope="col" class="w-25">Name</th>
+                                <th scope="col" class="w-15">Created Date</th>
+                                <th scope="col" class="w-45">Tags</th>
+                                <th scope="col" class="w-15">Action</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var item in Model)
+                            {
+                                <tr>
+                                    <th scope="row">
+                                        @Html.DisplayFor(modelItem => item.ImageId)
+                                    </th>
+                                    <td class="text-left">
+                                        @Html.DisplayFor(modelItem => item.Name)
+                                    </td>
+                                    <td>
+                                        @{var strDate = item.CreateDate.ToString("dd-MMM-yyyy");}
+                                        @strDate
+                                    </td>
+                                    <td class="text-left word-break-all">
+                                        @{
+                                            string strtags = "";
+                                            try
+                                            {
+                                                if (!string.IsNullOrWhiteSpace(item.Tags))
+                                                {
+                                                    var tags = Newtonsoft.Json.JsonConvert.DeserializeObject<InterviewTest.BLL.Models.ImageTagResponse>(item.Tags);
+                                                    strtags = tags.description != null && tags.description.tags != null ? string.Join(",", tags.description.tags.ToArray()) : "";
+                                                }
+                                            }
+                                            catch (Exception)
+                                            {
+
+                                            }
+                                        }
+                                        @(strtags)
+                                    </td>
+                                    <td>
+                                        <a class="btn btn-info btn-edit btn-xs" asp-action="Details" asp-route-id="@item.ImageId"><i class="fa fa-info-circle mr-1" aria-hidden="true"></i>Details</a>
+                                    </td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<script src="~/js/custom/images.js" type="text/javascript"></script>

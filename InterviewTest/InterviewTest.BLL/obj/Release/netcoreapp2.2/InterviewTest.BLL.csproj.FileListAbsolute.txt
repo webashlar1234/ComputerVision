@@ -1,0 +1,9 @@
+D:\DotNetProjects\MicrosoftAI\Bhavesh\20June2019\InterviewTest\InterviewTest.BLL\bin\Release\netcoreapp2.2\InterviewTest.BLL.deps.json
+D:\DotNetProjects\MicrosoftAI\Bhavesh\20June2019\InterviewTest\InterviewTest.BLL\bin\Release\netcoreapp2.2\InterviewTest.BLL.dll
+D:\DotNetProjects\MicrosoftAI\Bhavesh\20June2019\InterviewTest\InterviewTest.BLL\bin\Release\netcoreapp2.2\InterviewTest.BLL.pdb
+D:\DotNetProjects\MicrosoftAI\Bhavesh\20June2019\InterviewTest\InterviewTest.BLL\obj\Release\netcoreapp2.2\InterviewTest.BLL.csprojAssemblyReference.cache
+D:\DotNetProjects\MicrosoftAI\Bhavesh\20June2019\InterviewTest\InterviewTest.BLL\obj\Release\netcoreapp2.2\InterviewTest.BLL.csproj.CoreCompileInputs.cache
+D:\DotNetProjects\MicrosoftAI\Bhavesh\20June2019\InterviewTest\InterviewTest.BLL\obj\Release\netcoreapp2.2\InterviewTest.BLL.AssemblyInfoInputs.cache
+D:\DotNetProjects\MicrosoftAI\Bhavesh\20June2019\InterviewTest\InterviewTest.BLL\obj\Release\netcoreapp2.2\InterviewTest.BLL.AssemblyInfo.cs
+D:\DotNetProjects\MicrosoftAI\Bhavesh\20June2019\InterviewTest\InterviewTest.BLL\obj\Release\netcoreapp2.2\InterviewTest.BLL.dll
+D:\DotNetProjects\MicrosoftAI\Bhavesh\20June2019\InterviewTest\InterviewTest.BLL\obj\Release\netcoreapp2.2\InterviewTest.BLL.pdb

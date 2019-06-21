@@ -1,0 +1,9 @@
+D:\DotNetProjects\MicrosoftAI\Bhavesh\20June2019\InterviewTest\DataContext\bin\Release\netcoreapp2.2\DataContext.deps.json
+D:\DotNetProjects\MicrosoftAI\Bhavesh\20June2019\InterviewTest\DataContext\bin\Release\netcoreapp2.2\DataContext.dll
+D:\DotNetProjects\MicrosoftAI\Bhavesh\20June2019\InterviewTest\DataContext\bin\Release\netcoreapp2.2\DataContext.pdb
+D:\DotNetProjects\MicrosoftAI\Bhavesh\20June2019\InterviewTest\DataContext\obj\Release\netcoreapp2.2\DataContext.csprojAssemblyReference.cache
+D:\DotNetProjects\MicrosoftAI\Bhavesh\20June2019\InterviewTest\DataContext\obj\Release\netcoreapp2.2\DataContext.csproj.CoreCompileInputs.cache
+D:\DotNetProjects\MicrosoftAI\Bhavesh\20June2019\InterviewTest\DataContext\obj\Release\netcoreapp2.2\DataContext.AssemblyInfoInputs.cache
+D:\DotNetProjects\MicrosoftAI\Bhavesh\20June2019\InterviewTest\DataContext\obj\Release\netcoreapp2.2\DataContext.AssemblyInfo.cs
+D:\DotNetProjects\MicrosoftAI\Bhavesh\20June2019\InterviewTest\DataContext\obj\Release\netcoreapp2.2\DataContext.dll
+D:\DotNetProjects\MicrosoftAI\Bhavesh\20June2019\InterviewTest\DataContext\obj\Release\netcoreapp2.2\DataContext.pdb

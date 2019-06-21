@@ -1,0 +1,16 @@
+D:\DotNetProjects\MicrosoftAI\Bhavesh\20June2019\InterviewTest\DataContext\bin\Debug\netcoreapp2.2\InterviewTest.Entity.deps.json
+D:\DotNetProjects\MicrosoftAI\Bhavesh\20June2019\InterviewTest\DataContext\bin\Debug\netcoreapp2.2\InterviewTest.Entity.dll
+D:\DotNetProjects\MicrosoftAI\Bhavesh\20June2019\InterviewTest\DataContext\bin\Debug\netcoreapp2.2\InterviewTest.Entity.pdb
+D:\DotNetProjects\MicrosoftAI\Bhavesh\20June2019\InterviewTest\DataContext\obj\Debug\netcoreapp2.2\InterviewTest.Entity.csproj.CoreCompileInputs.cache
+D:\DotNetProjects\MicrosoftAI\Bhavesh\20June2019\InterviewTest\DataContext\obj\Debug\netcoreapp2.2\InterviewTest.Entity.AssemblyInfoInputs.cache
+D:\DotNetProjects\MicrosoftAI\Bhavesh\20June2019\InterviewTest\DataContext\obj\Debug\netcoreapp2.2\InterviewTest.Entity.AssemblyInfo.cs
+D:\DotNetProjects\MicrosoftAI\Bhavesh\20June2019\InterviewTest\DataContext\obj\Debug\netcoreapp2.2\InterviewTest.Entity.dll
+D:\DotNetProjects\MicrosoftAI\Bhavesh\20June2019\InterviewTest\DataContext\obj\Debug\netcoreapp2.2\InterviewTest.Entity.pdb
+D:\DotNetProjects\MicrosoftAI\Bhavesh\20June2019\InterviewTest\InterviewTest.Entity\bin\Debug\netcoreapp2.2\InterviewTest.Entity.deps.json
+D:\DotNetProjects\MicrosoftAI\Bhavesh\20June2019\InterviewTest\InterviewTest.Entity\bin\Debug\netcoreapp2.2\InterviewTest.Entity.dll
+D:\DotNetProjects\MicrosoftAI\Bhavesh\20June2019\InterviewTest\InterviewTest.Entity\bin\Debug\netcoreapp2.2\InterviewTest.Entity.pdb
+D:\DotNetProjects\MicrosoftAI\Bhavesh\20June2019\InterviewTest\InterviewTest.Entity\obj\Debug\netcoreapp2.2\InterviewTest.Entity.csproj.CoreCompileInputs.cache
+D:\DotNetProjects\MicrosoftAI\Bhavesh\20June2019\InterviewTest\InterviewTest.Entity\obj\Debug\netcoreapp2.2\InterviewTest.Entity.AssemblyInfoInputs.cache
+D:\DotNetProjects\MicrosoftAI\Bhavesh\20June2019\InterviewTest\InterviewTest.Entity\obj\Debug\netcoreapp2.2\InterviewTest.Entity.AssemblyInfo.cs
+D:\DotNetProjects\MicrosoftAI\Bhavesh\20June2019\InterviewTest\InterviewTest.Entity\obj\Debug\netcoreapp2.2\InterviewTest.Entity.dll
+D:\DotNetProjects\MicrosoftAI\Bhavesh\20June2019\InterviewTest\InterviewTest.Entity\obj\Debug\netcoreapp2.2\InterviewTest.Entity.pdb

@@ -1,0 +1,21 @@
+@media only screen and (max-width: 1024px) {
+    .upload-img-content {
+        padding: 62px !important;
+    }
+}
+
+@media (min-width: 320px) and (max-width: 768px) {
+    .upload-img-content {
+        padding: 21px !important;
+        margin-bottom: 20px;
+    }
+}
+
+@media (min-width: 320px) and (max-width: 425px) {
+    .navbar-minimal.open{
+        width: 58px !important;
+    }
+    .navbar .navbar-menu li a span{
+        display: none;
+    }
+}
